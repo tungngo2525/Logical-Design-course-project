@@ -1,0 +1,7 @@
+../Core/Src/uart_reading.c:19:5:isCmdEqualToRST	2
+../Core/Src/uart_reading.c:26:5:isCmdEqualToCAP	2
+../Core/Src/uart_reading.c:33:6:cmd_parser_fsm	12
+../Core/Src/uart_reading.c:62:6:uart_control_fsm	8
+../Core/Src/uart_reading.c:100:6:Scan_Addr	3
+../Core/Src/uart_reading.c:116:6:send_data	1
+../Core/Src/uart_reading.c:139:6:commandParser	3

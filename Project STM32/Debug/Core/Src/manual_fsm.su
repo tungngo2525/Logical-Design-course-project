@@ -1,0 +1,3 @@
+../Core/Src/manual_fsm.c:5:6:fsmInit	8	static
+../Core/Src/manual_fsm.c:9:6:fsmReInit	16	static
+../Core/Src/manual_fsm.c:31:6:fsmRun	8	static

@@ -1,0 +1,4 @@
+../Core/Src/output_led.c:9:6:turnOn_RGB	8	static
+../Core/Src/output_led.c:13:6:turnOn_RGB1	8	static
+../Core/Src/output_led.c:17:6:turnOn_RGB2	8	static
+../Core/Src/output_led.c:23:6:turnOff_RGB	8	static

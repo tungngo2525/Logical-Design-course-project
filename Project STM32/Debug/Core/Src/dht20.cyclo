@@ -1,0 +1,9 @@
+../Core/Src/dht20.c:18:6:dht20_init	1
+../Core/Src/dht20.c:35:6:dht20_reset	1
+../Core/Src/dht20.c:54:6:dht20_start	3
+../Core/Src/dht20.c:77:6:dht20_read	1
+../Core/Src/dht20.c:101:6:init_reading	1
+../Core/Src/dht20.c:105:6:get_dht20_values	1
+../Core/Src/dht20.c:111:6:reading_fsm_run	4
+../Core/Src/dht20.c:134:6:display_dht20_data	1
+../Core/Src/dht20.c:141:6:notification_lights	4
